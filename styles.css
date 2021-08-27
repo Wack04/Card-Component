@@ -23,6 +23,8 @@ a {
 .centering {
   display: flex;
   justify-content: center;
+  margin-top:4rem;
+  margin-bottom:4rem;
 }
 .card {
   width: 24em;

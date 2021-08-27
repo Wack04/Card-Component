@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   background-color: var(--Pale-blue);
   font-family: "Red Hat Display", sans-serif;
+  min-height:100vh;
 }
 :root {
   --Pale-blue: hsl(225, 100%, 94%);
@@ -22,7 +23,6 @@ a {
 .centering {
   display: flex;
   justify-content: center;
-  margin: 6em auto;
 }
 .card {
   width: 24em;
